@@ -1,0 +1,18 @@
+ 
+p{
+    font-size:20px;
+    color:white;
+    background-color: gray;
+}
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+mark{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:green;
+}
+div{
+    height: 400px;
+    width: 300px;
+}
